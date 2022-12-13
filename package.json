@@ -19,6 +19,8 @@
   "homepage": "https://github.com/sanam1060/social-network-api#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "mongoose": "^6.8.0"
+    "mongodb": "^6.0.0",
+    "mongoose": "^6.8.0",
+    "validator": "^13.7.0"
   }
 }
